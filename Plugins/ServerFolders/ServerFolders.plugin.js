@@ -46,7 +46,7 @@ class ServerFolders {
 			.${this.name}-modal .ui-icon-picker-icon.selected ${BDFDB.dotCN.hovercardbutton} {
 				display: none !important;
 			}
-			.${this.name}-modal .ui-icon-picker-icon ${BDFDB.dotCN.hovercardbutton} {
+			.${this.name}-modal .ui-icon-picker-icon ${BDFDB.dotCN.hovercardbutton} {c
 				position: absolute;
 				top: -10px;
 				right: -10px;
